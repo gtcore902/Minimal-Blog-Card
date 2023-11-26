@@ -64,6 +64,7 @@ h2 {
 p:first-of-type {
     margin: 0 16px;
     font-size: 0.875em;
+    line-height: 1.1em;
 }
 
 .separator {
